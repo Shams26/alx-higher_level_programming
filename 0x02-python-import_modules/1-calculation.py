@@ -14,3 +14,4 @@ print("{} * {} = {}".format(a, b, mul(a, b)))
 
 from calculator_1 import div
 print("{} / {} = {}".format(a, b, div(a, b)))
+print()
