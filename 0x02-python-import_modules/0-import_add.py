@@ -1,8 +1,1 @@
-#!/usr/bin/python3
-
-from add_0.py import add
-
-a = 1
-b = 2
-
-print(a, "+", b, "=", add(a, b))
+__import__("0-add")
